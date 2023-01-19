@@ -6,7 +6,7 @@ This is the .bashrc file that I use on my Fedora systems. It contains all the al
 
 To install the bashrc file you first need to backup the original file
 * Open a terminal window in your home directory and run the command `cp -r .bashrc .bashrc.bak`
-* Open your Files app and use the keyboard shortcut '<ctrl> + h' to show hidden files. 
+* Open your Files app and use the keyboard shortcut 'ctrl + h' to show hidden files. 
 * Add a '.' in front of the file name of my bashrc file to make it a hidden file. 
 * Copy my bashrc file into your home directory and allow it to overwrite the original.
 * Close any open terminal windows and relaunch the terminal. The new terminal windows will now open with the new bashrc file. 
